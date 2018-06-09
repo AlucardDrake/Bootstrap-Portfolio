@@ -1,0 +1,160 @@
+.header {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-color: #777777;
+    margin-bottom: 20px;
+    height: 100px;
+    
+}
+.name{
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+}
+.name2{
+    position: relative;
+    top: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.about{
+    display: inline-block;
+    padding: 10px;
+    position: relative;
+    top: 30px;
+}
+.portfolio {
+    display: inline-block;
+    padding: 10px;
+    position: relative;
+    top: 30px;
+}
+.contact {
+    display: inline-block;
+    padding: 10px;
+    position: relative;
+    top: 30px;
+}
+.link1 {
+    color: black;
+    text-decoration: none;
+}
+.spacer1 {
+    height: 100px;
+}
+.spacer2 {
+    height: 200px;
+}
+body {
+    background-image: url("../images/pattern.png");
+}
+
+.content {
+    background-color: #ffffff;
+    font-size: 25px;
+}
+.aboutme{
+    color: #4aaaa5;
+}
+.footer {
+    background-color: #666666;
+    border-top-style: solid;
+    border-top-color: lightskyblue;
+    border-top-width: 3px;
+    height: 70px;
+    text-align: center;
+    margin-top: 150px;  
+}
+.submit {
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+.hangman {
+    display: inline-block;
+}
+
+.hangmantxt {
+    color: white;
+    height: 50px;
+    width: 200px;
+    background-color: #4aaaa5;
+    text-align: center;
+    position: relative;
+    top: -75px;
+}
+
+.RPG {
+    display: inline-block;
+}
+
+.RPGtxt {
+    color: white;
+    height: 50px;
+    width: 200px;
+    background-color: #4aaaa5;
+    text-align: center;
+    position: relative;
+    top: -75px;
+}
+
+span {
+    position: relative;
+    top: 10px;
+}
+
+.trivia {
+    display: inline-block;
+}
+
+.triviatxt {
+    color: white;
+    height: 50px;
+    width: 200px;
+    background-color: #4aaaa5;
+    text-align: center;
+    position: relative;
+    top: -75px;
+}
+
+.rutgers {
+    display: inline-block;
+}
+
+.rutgerstxt {
+    color: white;
+    height: 50px;
+    width: 200px;
+    background-color: #4aaaa5;
+    text-align: center;
+    position: relative;
+    top: -75px;
+}
+
+.rps {
+    display: inline-block;
+}
+
+.rpstxt {
+    color: white;
+    height: 50px;
+    width: 200px;
+    background-color: #4aaaa5;
+    text-align: center;
+    position: relative;
+    top: -75px;
+}
+.footer2{
+    background-color: #666666;
+    border-top-style: solid;
+    border-top-color: lightskyblue;
+    border-top-width: 3px;
+    height: 70px;
+    text-align: center;
+    margin-top: 200px; 
+}
+.rtxt {
+    font-size: 20px;
+    position: relative;
+    top: -5px;
+}
